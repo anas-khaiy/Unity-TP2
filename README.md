@@ -1,5 +1,9 @@
 # Jeu de Tri des Déchets
 
+## Lien Projet
+
+https://drive.google.com/file/d/1QP_klNpKrrEjXkGQQjN3QKvAbSHynPcu/view?usp=share_link
+
 ## Introduction
 
 Le projet consiste à créer un mini-jeu éducatif sur le tri des déchets. L’objectif est de sensibiliser les joueurs aux bonnes pratiques de recyclage en leur faisant trier différents types de déchets dans les poubelles correspondantes : nourriture, métaux et plastiques.
